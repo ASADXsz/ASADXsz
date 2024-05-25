@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### ✨ 我的技能(my skills)   
-![](https://img.shields.io/badge/-Java-4C7491?style=flat-square&logo=c++&logoColor=fff)
+[![](https://img.shields.io/badge/-Java-4C7491?style=flat-square&logo=c++&logoColor=fff)](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=fff
+)
 ![](https://img.shields.io/badge/-Java-4C7491?style=flat-square&logo=java&logoColor=fff)
 ![](https://img.shields.io/badge/-Spring-5FB832?style=flat-square&logo=Spring&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)

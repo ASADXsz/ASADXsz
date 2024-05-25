@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-<!--
+## 我是HaoL
+
+- 🌹 I am a Java developer with two and a half years of practice 🐵.
+- 🏡 作品： 暂未上线
+- :pencil: 个人博客：<a href="https://lihxl.cn/" target="_blank">南风吹梦</a>
+
 **ASADXsz/ASADXsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ### ✨ 我的技能(my skills)   
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=fff)
 ![](https://img.shields.io/badge/-Java-4C7491?style=flat-square&logo=java&logoColor=fff)
